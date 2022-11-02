@@ -4,9 +4,9 @@ export class Animal {
     type: string;
     preferredFoods: Array<string>;
     // name, type and preferredFoods are what we need in order to use that class
-    constructor(name: string, type: string, preferredFoods: Array<string>) {
-      this.name = name;
-      this.type = type;
+    constructor(name: string, type: string, preferredFoods: Array<string>) { //1 name, 1 type, many foods
+      this.name = name; //name of the instance
+      this.type = type; //type of...
       this.preferredFoods = preferredFoods;
       //The constructor is saying that now name is expecting a string as well as type 
       //and that preferredFoods is looking for an array of strings but more on this later dont stress!
