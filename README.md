@@ -1,3 +1,6 @@
+This repo was practice (class 2.3) for my 2022 DevMountain Software QA bootcamp.
+Original repo: https://github.com/MarohnHoward/animal_feeder
+
 # animal_feeder
 In this project you are adding loops to the feedTest.test.ts using the animal.ts and the zoo.ts
 Each of the pages that you have access to have breakdowns of what each one is doing and instructions where they are needed. 
